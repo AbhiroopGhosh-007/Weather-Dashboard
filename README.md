@@ -23,6 +23,9 @@ A responsive weather application built with React.js and Tailwind CSS that fetch
 
 🌐 OpenWeather API (REST API)
 
+## Live Link
+https://weatherarena.netlify.app/
+
 ## Screenshots
 <div align="center"> <img src="https://github.com/user-attachments/assets/821d6cad-53ff-4b5d-b384-b0ffe4c311a5" <img width="1920" height="1080"  />
  alt="Screenshot (286)"  />
